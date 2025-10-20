@@ -10,3 +10,16 @@ html{
   background-color: #e0abb7;
   line-height: 1.5;
 }
+.title {
+  font-family: "Fleur De Leah", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #FFFFFF;
+}
+.fonts {
+  font-family: "Poiret One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+  
