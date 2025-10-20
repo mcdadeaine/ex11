@@ -12,14 +12,25 @@ html{
 }
 .title {
   font-family: "Fleur De Leah", cursive;
+  font-size: 20px;
   font-weight: 400;
   font-style: normal;
   color: #FFFFFF;
 }
 .fonts {
   font-family: "Poiret One", sans-serif;
+  font-size: 16px;
   font-weight: 400;
   font-style: normal;
+  color: #FFFFFF;
+}
+.fable {
+  {
+  font-family: "Poiret One", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  font-style: normal;
+  color: #520012;
 }
 
   
