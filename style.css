@@ -11,6 +11,12 @@ html{
   background-color: #e0abb7;
   line-height: 1.5;
 }
+body {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 main{
   margin-top: 300px;
 
