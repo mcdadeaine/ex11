@@ -8,15 +8,14 @@ html{
   font-family: Helvetica, sans-serif;
   font-size: 16px;
   color: #FFFFFF;
-  background-color: #e0abb7;
-  line-height: 1.5;
-}
-body {
   background-image: url("assets/flower.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  line-height: 1.5;
+  line-height: 1.5;
 }
+
 main{
   margin-top: 300px;
 
